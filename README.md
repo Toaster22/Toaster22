@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Toaster22
+- 👋 Hi, I’m @Zach
 - 👀 I’m interested in machine learning, 3D printing, and keyboards.
 - 🌱 I’m currently learning python, C, PowerShell, YAML, soldering, GitHub, and KiCAD.
 - 💞️ I’m looking to collaborate on nothing yet.
